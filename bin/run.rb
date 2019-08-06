@@ -1,5 +1,6 @@
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+Require_relative '../config/environment' 
+# Hashie
+# Sinatra
+# Octokit
+# Pry
+# AwesomePrint
